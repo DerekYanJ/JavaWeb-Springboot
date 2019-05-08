@@ -7,7 +7,7 @@
 
 [IDEA spring boot gradle mybatis环境搭建](https://github.com/DerekYanJ/JavaWeb-Springboot/raw/master/doc/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E5%92%8C%E6%96%B0%E5%BB%BA%E4%B8%80%E4%B8%AASpringboot%2Bgradle%2Bmybatis%E9%A1%B9%E7%9B%AE.docx])  
 
-JDK java运行环境 移步：[JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html) (英文)
+JDK java运行环境 移步：[JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html) (英文)  
 Spring Boot 移步：[Spring Boot](https://spring.io/projects/spring-boot/) (英文)  
 Gradle 移步：[Gradle](https://gradle.org/) (英文)  
 mybatis 移步： [mybatis](http://www.mybatis.org/mybatis-3/zh/index.html) (中文)  

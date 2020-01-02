@@ -56,7 +56,8 @@ public class UserController extends BaseController {
     @ResponseBody
     public ApiResponse logout(HttpServletRequest request) throws Exception{
         String token = request.getHeader("token");
-        System.out.println("进来了？？？");
+        String token1 = getUserId();
+        System.out.println("进来了？？？:" + token1);
         userService.logout(token);
         return new ApiResponse<>("退出成功", null);
     }
